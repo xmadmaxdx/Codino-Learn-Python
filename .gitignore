@@ -71,6 +71,7 @@ src/data/content/
 src/data/curriculum.ts
 src/screens/profile/
 src/screens/community/
+src/screens/leaderboard/
 src/hooks/useLessonStorage.ts
 src/hooks/useQuizProgress.ts
 
