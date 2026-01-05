@@ -39,3 +39,44 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Documentation & Guides
+guide.md
+guide/
+docs/
+*.md
+!README.md
+
+# Agent & Meta Work
+.agent/
+.gemini/
+brain/
+walkthrough.md
+implementation_plan.md
+task.md
+
+# Assets & Media
+assets/
+public/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.mp4
+*.webm
+
+# Core IP & Dynamic Content Protection
+src/data/content/
+src/data/curriculum.ts
+src/screens/profile/
+src/screens/community/
+src/hooks/useLessonStorage.ts
+src/hooks/useQuizProgress.ts
+
+# Secrets & Config
+.env
+.env.local
+firebase-config.ts
+google-services.json
+GoogleService-Info.plist
