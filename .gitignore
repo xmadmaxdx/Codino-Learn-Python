@@ -58,13 +58,7 @@ task.md
 # Assets & Media
 assets/
 public/
-*.png
-*.jpg
-*.jpeg
-*.svg
-*.gif
-*.mp4
-*.webm
+
 
 # Core IP & Dynamic Content Protection
 src/data/content/
